@@ -53,14 +53,14 @@ READER.vars =
 	-- Cameras, this table contains all of the data needed for operation of the front and rear plate reader
 	cams = {
 		-- Variables for the front camera
-		["front"] = {
+		["Etututka"] = {
 			plate = "",     -- The current plate caught by the reader
 			index = "",     -- The index of the current plate
 			locked = false  -- If the reader is locked
 		},
 
 		-- Variables for the rear camera
-		["rear"] = {
+		["Takatutka"] = {
 			plate = "",     -- The current plate caught by the reader
 			index = "",     -- The index of the current plate
 			locked = false  -- If the reader is locked
